@@ -50,4 +50,3 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## Contact
 For any questions, issues, or suggestions, please open an issue in this repository.
-```
