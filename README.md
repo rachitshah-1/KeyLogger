@@ -19,11 +19,11 @@ A simple Python keylogger for educational purposes. It captures keystrokes and r
 ## Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/keylogger-project.git
+   git clone https://github.com/yourusername/KeyLogger.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd keylogger-project
+   cd keyLogger
    ```
 3. **Configure the keylogger:**
    - Open the `keylogger.py` file.
